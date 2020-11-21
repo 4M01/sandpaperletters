@@ -1,12 +1,12 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "title": "Montessori Lower and Capital Case Sandpaper Letters and Sandpaper Numbers",
+  "url": "https://montessorisandpaperletters.netlify.app/",
+  "domain": "netlify.app",
+  "description": "Montessori Lower and Capital Case Sandpaper Letters and Sandpaper numbers",
+  "genre": "Montessori, Pre-school, toddler, home-schooling",
+  "googleAnalyticsId": "G-XBV8RJV0J4",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Montessori Lower and Capital Case Sandpaper Letters and Sandpaper numbers",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://update-me.com"
@@ -16,8 +16,8 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Amol Chavan",
+    "twitterHandle": "4M01_C"
   },
   "publisher": {
     "name": "Publisher name. Update me."
