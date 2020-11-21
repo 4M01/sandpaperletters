@@ -1,9 +1,9 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Montessori sandpaper numbers - lesson learned.
+description: We have used DIY videos and created Montessori sandpaper numbers at home using fevicol and sand. This post lists issues faced and lesson learned during the process.
+date: 2020-11-21
 tags:
-  - another-tag
+	- Montessori sandpaper numbers, sandpaper numbers, sandpaper, numbers, buy online Montessori sandpaper numbers, buy online Montessori sandpaper letters
 layout: layouts/post.njk
 image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
